@@ -3,4 +3,6 @@
 web/sites/default/files/
 web/sites/*/settings*.php
 web/sites/*/services*.yml
+web/modules/contrib/
+backend-lt/web/modules/contrib/
 .ddev/
